@@ -1,0 +1,1 @@
+Fivebeans = Npm.require('fivebeans');
